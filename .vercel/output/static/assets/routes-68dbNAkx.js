@@ -1,0 +1,1 @@
+import{t as e}from"./index-20j3nitA.js";var t=e();function n(){return(0,t.jsx)(`main`,{className:`p-8`,children:(0,t.jsx)(`p`,{children:`Родной мяч`})})}export{n as component};
